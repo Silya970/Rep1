@@ -1,0 +1,16 @@
+<html>
+<body>
+<script>
+'use strict';
+
+let a,b =prompt('Верно ли утверждение?','');
+
+if ((a>2 && a<11)||(b>=6 && b<14)){
+alert ('Верно');
+}else{
+alert ('Неверно');
+};
+
+</script>
+</body>
+</html>

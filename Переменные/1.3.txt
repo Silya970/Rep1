@@ -1,0 +1,16 @@
+<html>
+<body>
+<script>
+'use strict';
+
+const c = 15;
+const d = 2;
+let result;
+
+result =c+d;
+
+console.log(`result ${15+2}`);
+
+</script>
+</body>
+</html>

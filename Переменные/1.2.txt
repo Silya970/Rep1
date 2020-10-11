@@ -1,0 +1,70 @@
+<html>
+<body>
+<script>
+'use strict';
+let a;
+let b;
+
+a = 10;
+b = 2;
+
+alert(a+b);
+
+</script>
+</body>
+</html>
+
+
+
+
+<html>
+<body>
+<script>
+'use strict';
+let a;
+let b;
+
+a = 10;
+b = 2;
+
+alert(a-b);
+
+</script>
+</body>
+</html>
+
+
+
+<html>
+<body>
+<script>
+'use strict';
+let a;
+let b;
+
+a = 10;
+b = 2;
+
+alert(a*b);
+
+</script>
+</body>
+</html>
+
+
+
+<html>
+<body>
+<script>
+'use strict';
+let a;
+let b;
+
+a = 10;
+b = 2;
+
+alert(a/b);
+
+</script>
+</body>
+</html>

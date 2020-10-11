@@ -1,0 +1,14 @@
+<html>
+<body>
+<script>
+'use strict';
+
+let a = prompt('Чему равно а?', '');
+if (a>0 && a<5) {
+  alert('Верно!');
+} else{
+  alert ('Неверно.')
+}
+</script>
+</body>
+</html>

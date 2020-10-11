@@ -1,0 +1,13 @@
+<html>
+<body>
+<script>
+'use strict';
+
+let test = prompt('Равна ли test к true?', '');
+
+(test == 'True') ?
+  alert('Верно!') : alert('Неверно.');
+</script>
+</script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<html>
+<body>
+<script>
+'use strict';
+
+const a = 17;
+const b = 10;
+let c;
+
+c =17-10;
+
+const d = 7;
+let result;
+
+result = c+d;
+
+console.log(`result ${c+d}`);
+</script>
+</body>
+</html>
